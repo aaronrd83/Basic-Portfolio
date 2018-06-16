@@ -50,6 +50,7 @@ h2 {
 }
 .clearfix {
     clear: initial;
+    overflow: auto;
 }
 
 img {
